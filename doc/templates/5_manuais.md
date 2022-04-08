@@ -20,8 +20,8 @@
   
   # Modificamos nuestro .env
   
-  # php artisan migrate:fresh --seeder
-  # php artisan server
+  $ php artisan migrate:fresh --seeder
+  $ php artisan server
   
   #Happy hacking!
   ```
