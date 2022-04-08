@@ -21,9 +21,7 @@ Simplemente necesitas rexistrarte para ter acceso ao apartado de control de crip
 
 ## Sobre a persoa autora
 
-Considero que teño ganas de aprender novos lenguaxes, así coma patróns de programación ou novos métodos de traballo. Son bo e capaz de traballar en equipo, son autodidacta no sentido de atopar algún erro ou inconvinte no código ou no traballo. Para contactar conmigo deixovos dous métodos
-Email: sandradeferreiro@gmail.com
-Móvil: 617191413
+Considero que teño ganas de aprender novos lenguaxes, así coma patróns de programación ou novos métodos de traballo.
 
 Si che interesa saber máis sobre os méus proxectos: [Portfolio](https://andradefs.com)
 
