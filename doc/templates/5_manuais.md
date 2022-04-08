@@ -14,6 +14,17 @@
   - Recaptcha de Google, para formulario de contacto.
   - Comunicámosnos con Telegram mediante un Bot, polo que no caso de copiar o código para un servidor novo sería necesario a instalación dos respectivos paquetes.
   - Sistema operativo do Servidor: Linux, no meu caso uso Debian 10 server.
+  ```
+  $ composer install
+  $ npm run dev
+  
+  # Modificamos nuestro .env
+  
+  # php artisan migrate:fresh --seeder
+  # php artisan server
+  
+  #Happy hacking!
+  ```
 
 - Control de usuarios:
   - Estes podense rexistrar manualmente, cubrindo un formulario. Os datos sensibles, neste caso a contraseña, é encriptada de tal forma que no caso de que me accedan a base de datos, non saberian as contraseñas dos usuarios.
